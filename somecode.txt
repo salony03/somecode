@@ -1,4 +1,5 @@
 first line
 added second line
-third line
-SIXTH LINE
+
+fourth line
+FIFTH LINE
